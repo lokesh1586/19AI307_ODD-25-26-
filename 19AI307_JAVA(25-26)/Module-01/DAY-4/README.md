@@ -25,8 +25,8 @@ To write a Java program that uses arrays and a data structure (HashSet) to check
  ```
 /*
 Program to implement a Array concept using Java
-Developed by: Priyanka S
-RegisterNumber:  212224040255
+Developed by: Lokesh M
+RegisterNumber:  212224040173
 */
 ```
 
