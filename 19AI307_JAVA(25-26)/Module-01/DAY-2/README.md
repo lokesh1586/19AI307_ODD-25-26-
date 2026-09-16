@@ -52,8 +52,8 @@ To implement conditional logic in Java using nested if-else statements and the m
  ```
 
 Program to implement a conditional statement using Java
-Developed by:  Priyanka S
-RegisterNumber:  212224040255
+Developed by:  Lokesh M
+RegisterNumber:  212224040073
 
 ```
 
